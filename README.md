@@ -25,10 +25,6 @@ To get started with E-Safe Bot, simply start a conversation with the bot on Tele
 
 Contributions to E-Safe Bot are welcome! Whether it's bug fixes, feature enhancements, or translations, feel free to contribute to the project. Please follow the guidelines outlined in the CONTRIBUTING.md file.
 
-## Credits
-
-E-Safe Bot is developed by [Your Name] and is powered by OpenAI's Large Language Model (LLM).
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
