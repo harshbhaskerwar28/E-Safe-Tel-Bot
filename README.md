@@ -27,7 +27,7 @@ Contributions to E-Safe Bot are welcome! Whether it's bug fixes, feature enhance
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [LICENCE](LICENSE).
 
 ## Disclaimer
 
